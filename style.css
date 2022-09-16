@@ -15,9 +15,11 @@ body {
     margin-top: 30px;
     text-align: center;
 }
-a{
+
+a {
     color: #150a42;
 }
+
 .left-box {
     background-color: #ffffff;
     height: 90vh;
@@ -30,6 +32,7 @@ a{
     justify-items: center;
     justify-content: center;
 }
+
 .right-box {
     background-color: #fc0467;
     height: 90vh;
@@ -173,6 +176,7 @@ a{
         width: 12rem;
     }
 }
+
 @media only screen and (max-width: 600px) {
     body {
         background-color: #deecf8;
@@ -207,6 +211,7 @@ a{
         background-color: #670329d7;
         color: #fff;
     }
+
     .sign-up:hover {
         background-color: #f8f0f3;
         cursor: pointer;
@@ -228,6 +233,7 @@ a{
         width: 25vw;
         background-color: #670329d7;
     }
+
     .sign-in:hover {
         background-color: #f8f0f3;
         cursor: pointer;
